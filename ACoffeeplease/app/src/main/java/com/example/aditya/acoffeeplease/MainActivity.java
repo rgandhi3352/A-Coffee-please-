@@ -22,6 +22,8 @@ public class MainActivity extends AppCompatActivity {
 
     //Message when chocolate topping is added
     public void chocolaty(View view)
+        
+        
     {
         Toast.makeText(this, "Chocolate topping costs $1 extra per coffe", Toast.LENGTH_SHORT).show();
     }
